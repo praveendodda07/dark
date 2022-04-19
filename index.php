@@ -2,22 +2,22 @@
 <html lang="en">
 
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <!-- <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Dark Horse Media is a 360° advertising agency where we champion free thinking, in a stress-free work atmosphere where ideas cross-pollinate to produce innovative solutions for brands to connect with their consumers on the web.">
     <meta name="keywords" content="Digital Marketing Company in mumbai, website development company, website development company, website design company in mumbai">
-    <link rel="shortcut icon" href="assets/images/DHM-Favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="assets/images/DHM-Favicon.png" type="image/x-icon"> -->
     <title>AF Ad agency</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.css">
 
     <!-- icon CSS -->
-    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/css/font-awesome-animation.min.css">
-    <link rel="stylesheet" href="assets/css/themify-icons.css">
-    <link rel="stylesheet" href="assets/css/elegant-icon-style.css">
+    <link rel="stylesheet" href="./assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="./assets/css/font-awesome-animation.min.css">
+    <link rel="stylesheet" href="./assets/css/themify-icons.css">
+    <link rel="stylesheet" href="./assets/css/elegant-icon-style.css">
     <link href="https://fonts.googleapis.com/css?family=Lora&display=swap" rel="stylesheet">
 
     <!-- other CSS -->
@@ -32,6 +32,8 @@
 
     <link rel="stylesheet" href="assets/js/owl-carousel/assets/owl.carousel.min.css">
     <link rel="stylesheet" href="assets/js/owl-carousel/assets/owl.theme.default.min.css">
+
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <style>
         .client_wrap {
             /*padding: 100px 0 80px;*/
@@ -68,7 +70,7 @@
 
         section.testimonial.text-center {
             padding-bottom: 50px;
-            background: #f2f2f2;
+            /* background: #f2f2f2; */
             position: relative;
             z-index: 10;
         }
@@ -488,7 +490,7 @@
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure alias vel voluptas quia. Voluptate, perspiciatis? Minima quia suscipit, voluptates, nemo corrupti consectetur molestias harum architecto amet similique sunt incidunt. Rerum?
                         </h5>
                         <br>
-                        <a href="assets/document/Dark Horse Media.pdf" target="_blank" download> <button class="btn"><i class="fa fa-download"></i>&nbsp; Download Brochure</button>
+                        <a href="assets/document/Dark Horse Media.pdf" target="_blank" download> <button class="btn"><i class="material-icons">download</i>&nbsp; Download Brochure</button>
                         </a>
                     </div>
                 </div>
@@ -500,8 +502,6 @@
             <h1 class="bg_strock_text" data-parallax='{"x": -200}'>Services</h1><br>
         </div>
         <br>
-
-
     </section>
 
     <section class="three-column-images">
@@ -586,9 +586,11 @@
         </div> <!-- Container -->
     </section>
 
- 
 
-    <section class="client_wrap">
+
+    <section class="client_wrap" style="
+            background: #f2f2f2;
+    ">
         <div class="bg_text">
             <h1 class="bg_strock_text" data-parallax='{"x": 50}'>Clientele</h1>
         </div>
@@ -603,49 +605,49 @@
                     </div>
                 </div>
 
-                
+
                 <div class=" item">
                     <div class="client_single_item">
                         <img src="assets/images/client/thermolab.png" alt="thermolab group" width="70%" height="50%">
                     </div>
                 </div>
 
-                
+
                 <div class=" item">
                     <div class="client_single_item">
                         <img src="assets/images/client/thermolab.png" alt="thermolab group" width="70%" height="50%">
                     </div>
                 </div>
 
-                
+
                 <div class=" item">
                     <div class="client_single_item">
                         <img src="assets/images/client/thermolab.png" alt="thermolab group" width="70%" height="50%">
                     </div>
                 </div>
 
-                
+
                 <div class=" item">
                     <div class="client_single_item">
                         <img src="assets/images/client/thermolab.png" alt="thermolab group" width="70%" height="50%">
                     </div>
                 </div>
 
-                
+
                 <div class=" item">
                     <div class="client_single_item">
                         <img src="assets/images/client/thermolab.png" alt="thermolab group" width="70%" height="50%">
                     </div>
                 </div>
 
-                
+
                 <div class=" item">
                     <div class="client_single_item">
                         <img src="assets/images/client/thermolab.png" alt="thermolab group" width="70%" height="50%">
                     </div>
                 </div>
 
-                
+
                 <div class=" item">
                     <div class="client_single_item">
                         <img src="assets/images/client/thermolab.png" alt="thermolab group" width="70%" height="50%">
@@ -655,55 +657,55 @@
 
 
             <div class="logo-carousel-ltr" dir="ltr">
-            <div class=" item">
-                    <div class="client_single_item">
-                        <img src="assets/images/client/thermolab.png" alt="thermolab group" width="70%" height="50%">
-                    </div>
-                </div>
-
-                
                 <div class=" item">
                     <div class="client_single_item">
                         <img src="assets/images/client/thermolab.png" alt="thermolab group" width="70%" height="50%">
                     </div>
                 </div>
 
-                
+
                 <div class=" item">
                     <div class="client_single_item">
                         <img src="assets/images/client/thermolab.png" alt="thermolab group" width="70%" height="50%">
                     </div>
                 </div>
 
-                
+
                 <div class=" item">
                     <div class="client_single_item">
                         <img src="assets/images/client/thermolab.png" alt="thermolab group" width="70%" height="50%">
                     </div>
                 </div>
 
-                
+
                 <div class=" item">
                     <div class="client_single_item">
                         <img src="assets/images/client/thermolab.png" alt="thermolab group" width="70%" height="50%">
                     </div>
                 </div>
 
-                
+
                 <div class=" item">
                     <div class="client_single_item">
                         <img src="assets/images/client/thermolab.png" alt="thermolab group" width="70%" height="50%">
                     </div>
                 </div>
 
-                
+
                 <div class=" item">
                     <div class="client_single_item">
                         <img src="assets/images/client/thermolab.png" alt="thermolab group" width="70%" height="50%">
                     </div>
                 </div>
 
-                
+
+                <div class=" item">
+                    <div class="client_single_item">
+                        <img src="assets/images/client/thermolab.png" alt="thermolab group" width="70%" height="50%">
+                    </div>
+                </div>
+
+
                 <div class=" item">
                     <div class="client_single_item">
                         <img src="assets/images/client/thermolab.png" alt="thermolab group" width="70%" height="50%">
@@ -748,104 +750,18 @@
 
                 </div>
                 <a class="carousel-control-prev" href="#testimonial4" data-slide="prev">
-                    <i class="fa fa-arrow-left" aria-hidden="true" style="color: black;"></i>
+                    <i class="material-icons" aria-hidden="true" style="color: black;">arrow_back_ios</i>
+                    
                 </a>
                 <a class="carousel-control-next" href="#testimonial4" data-slide="next">
-                    <i class="fa fa-arrow-right" aria-hidden="true" style="color: black;"></i>
+                    <i class="material-icons" aria-hidden="true" style="color: black;">arrow_forward_ios</i>
                 </a>
             </div>
         </div>
     </section>
 
-    <footer id="footer" class="footer-1">
-        <div class="main-footer widgets-dark typo-light">
-            <div class="container">
-                <div class="row">
+    <?php include_once('templates/footer.php') ?>
 
-                    <div class="col-xs-12 col-sm-6 col-md-3">
-                        <img src="assets/images/DHM logo (White).png" alt="logo" class="flogo" height=250px; width="250px">
-
-                    </div>
-
-                    <div class="col-xs-12 col-sm-6 col-md-3">
-                        <div class="widget no-box">
-                            <h5 class="widget-title" style="font-size: 25px;font-weight: 600;">Quick Links</h5>
-                            <ul class="thumbnail-widget">
-                                <li>
-                                    <div class="thumb-content"><a href="digital-marketing.html">Digital Marketing</a></div>
-                                </li>
-                                <li>
-                                    <div class="thumb-content"><a href="brand-identity.html">Brand Identity</a></div>
-                                </li>
-                                <li>
-                                    <div class="thumb-content"><a href="website-design.html">Website Design</a></div>
-                                </li>
-                                <li>
-                                    <div class="thumb-content"><a href="print-design.html">Print Design</a></div>
-                                </li>
-                                <li>
-                                    <div class="thumb-content"><a href="application-design.html">Application Design</a>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="thumb-content"><a href="3d-video-design.html">3D/Video Design</a></div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <div class="col-xs-12 col-sm-6 col-md-3">
-                        <div class="widget no-box">
-                            <h5 class="widget-title" style="font-size: 25px;font-weight: 600;">Address</h5>
-                            <p style="font-size: 15px;">
-                                1st Floor, Swaminarayan Building, Above IDBI Bank, 60ft road, Ambadi Rd, Vasai West, Vasai-Virar, Maharashtra 401202.</p>
-
-                        </div>
-                    </div>
-
-                    <div class="col-xs-6 col-sm-6 col-md-3">
-                        <div class="widget no-box">
-                            <h5 class="widget-title" style="font-size: 25px;font-weight: 600;">Contact Us</h5>
-                            <p><i class="fa fa-phone" style="font-size: 15px;"></i>&nbsp;<a title="+91-7021350179" href="tel:+91-7021350179">+91-7021350179</a><br>
-                                <i class="fa fa-envelope" style="font-size: 15px;"></i>&nbsp;<a title="info@darkhorsemedia.co" target="_blank" href="mailto:info@darkhorsemedia.co" style="color:white">info@darkhorsemedia.co</a>
-                                </a>
-                                </a>
-                            </p>
-                            <ul class="social-footer2">
-                                <li class="social"><a target="_blank" href="https://www.instagram.com/dark_horse_media/" title="instagram"><i alt="youtube" width="30" height="30" style="color:white;background-color: none;" class="fa fa-instagram fa-lg text-white"></i></a></li>
-                                <li class="social"><a href="https://www.facebook.com/darkhorse360/" target="_blank" title="Facebook"><i alt="youtube" width="30" height="30" style="color:white" class="fa fa-facebook fa-lg text-white"></i></a></li>
-                                <li class="social"><a href="https://twitter.com/darkhorse360" target="_blank" title="Twitter"><i alt="youtube" width="30" height="30" style="color:white" class="fa fa-twitter fa-lg text-white"></i></a></li>
-                                <li class="social"><a href="https://www.linkedin.com/company/darkhorsemedia" target="_blank" title="linkedin"><i alt="youtube" width="30" height="30" style="color:white" class="fa fa-linkedin fa-lg text-white"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-        <div class="footer-copyright">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 text-center">
-                        <p style="text-align: center;"> Copyright © 2020 Darkhorsemedia | All rights reserved</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-
-
-
-
-
-
-    <!-- end footer -->
-    <div class="go_to_top">
-        <a href="#top">
-            <i class="fa fa-angle-up"></i>
-            <i class="fa fa-angle-up"></i>
-        </a>
-    </div>
     <!-- Optional JavaScript -->
     <script src="assets/js/jquery-3.3.1.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
