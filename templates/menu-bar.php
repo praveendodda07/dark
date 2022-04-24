@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-lg-12 col-12">
                 <nav class="navbar">
-                    <a class="navbar-brand logo" href="index.php"><br><img src="./assets/images/LOGO-TM.png" alt="AF Ad Agency" title="AF Ad Agency" class="img-fluid" width="350px" height="50px" ></a>
+                    <a class="navbar-brand logo" href="index.php"><br><img src="./assets/images/LOGO-TM.png" alt="AF Ad Agency" title="AF Ad Agency" class="img-fluid" width="50px" ></a>
                     <button class="navbar-toggler hamburger" type="button" data-toggle="collapse" data-target="#header_menu">
                         <span class="m_menu">Menu</span>
                         <span class="m_close">Close</span>

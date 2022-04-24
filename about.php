@@ -105,8 +105,9 @@
                         <!-- Section Title Start -->
 
                         <!-- Section Title End -->
-                        <p class="mb-15">We have one mission: To generate demand for your product or service. Sounds over-simplified? Maybe, but, maybe not. It’s easy to find advertising that’s flashy but lacks strategy, or, conversely, a campaign that demonstrates solid strategy that is weakened by mediocre creativity and branding.<br><br>
-                            You deserve a firm that takes the efforts to learn about you, your industry and your customers. DARK HORSE MEDIA offers a complete range of web solutions including web designing, web hosting, e-commerce solutions, multimedia solutions, Internet marketing and many more.
+                        <p class="mb-15">
+                            Grow your business with us, We are creative at ad Making, Film Making and digital Marketing. <br> <br>
+                            Af ad agency offers a complete range of web solutions including web designing, App development and many more.
                         </p>
                         <!-- <a class="login-btn" href="#">Read more</a> -->
                     </div>
@@ -140,9 +141,10 @@
                             <!-- Section Title Start -->
 
                             <!-- Section Title End -->
-                            <p class="mb-15">DARK HORSE MEDIA is an outcome of an idea that came to Two Brothers who want to shake the advertising world with their crazy out of the box thinking and creative mind. DARK HORSE MEDIA is led by Dhawal Mhatre, Principal Founder and Lead Business Strategist with his younger brother Hardik Mhatre, Co-Founder and Design Director/ Head.<br><br>
-                                We focus on one thing–to keep our customers ahead of their competitors.
-
+                            <p class="mb-15">We work with some of most recognizable brands. We
+                                are personally & passionately committed on each &
+                                every job, from social media post to a larger
+                                television campaign.
                             </p>
                             <!-- <a class="login-btn" href="#">Read more</a> -->
                         </div>

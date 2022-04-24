@@ -487,11 +487,16 @@
                     <br>
                     <div class="about_content">
                         <h5 class=" wow fadeInUp" data-wow-delay="0.5s" style="color: #3A3B3C;">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure alias vel voluptas quia. Voluptate, perspiciatis? Minima quia suscipit, voluptates, nemo corrupti consectetur molestias harum architecto amet similique sunt incidunt. Rerum?
+                            Our team strikes a perfect balance of left and right brained people.
+                            Where insightful analytics meets visual creativity to give our clients outstanding design outcomes.
                         </h5>
                         <br>
-                        <a href="assets/document/Dark Horse Media.pdf" target="_blank" download> <button class="btn"><i class="material-icons">download</i>&nbsp; Download Brochure</button>
-                        </a>
+                        <h5 class=" wow fadeInUp" data-wow-delay="0.5s" style="color: #3A3B3C;">
+                            We are powered with avant-grade digital marketing ideologies that could lay a glossy path for your triumph. Being the hotshots of digital Marketing ideologies that could lay a glossy path for your triumph. Being the hotshots of digital marketing, We offer top-notch digital solutions that can bring a valid difference in your business.
+                        </h5>
+                        <br>
+                        <!-- <a href="assets/document/Dark Horse Media.pdf" target="_blank" download> <button class="btn"><i class="material-icons">download</i>&nbsp; Download Brochure</button>
+                        </a> -->
                     </div>
                 </div>
             </div>
@@ -504,91 +509,10 @@
         <br>
     </section>
 
-    <section class="three-column-images">
-        <div class="container ">
-
-            <div class="row" style="text-align: center;">
-
-                <div class="col-xs-6 col-sm-4 tilt" style="transform: perspective(1500px) rotateX(0deg) rotateY(0deg) scale(1);
-            transition: all 500ms ease 0s;
-        ;">
-                    <div class="portfolio_item">
-                        <a href="Digital Marketing.html" target="_blank">
-                            <img src="assets/images/seo.png" class="img-thumbnail img-responsive"></a>
-                        <a href="Digital Marketing.html" target="_blank" class="top-left">
-                            Digital marketing
-                        </a>
-                        <a class="exp" href="Digital Marketing.html" target="_blank"><span class="exp_inner"><span class="exp_hover">Explore</span></span></a>
-                    </div>
-                </div>
-
-                <div class="col-xs-6 col-sm-4 tilt">
-                    <div class="portfolio_item"> <a href="Brand identity.html" target="_blank">
-                            <img src="assets/images/digital.png" class="img-thumbnail img-responsive">
-                        </a>
-
-                        <a href="Brand identity.html" target="_blank" class="top-left">Brand Identity
-                        </a>
-                        <a class="exp" href="Brand identity.html" target="_blank"><span class="exp_inner"><span class="exp_hover">Explore</span></span></a>
-                    </div>
-                </div>
-
-                <div class="col-xs-6 col-sm-4 tilt">
-                    <div class="portfolio_item">
-                        <a href="website-design.html" target="_blank">
-                            <img src="assets/images/webd.png" class="img-thumbnail img-responsive"> </a>
-                        <a href="website-design.html" target="_blank" class="top-left">Website Design
-                        </a>
-                        <a class="exp" href="website-design.html" target="_blank"><span class="exp_inner"><span class="exp_hover">Explore</span></span></a>
-                    </div>
-                </div>
+    <?php include_once('./templates/services.php') ?>
 
 
-
-                <div class="col-xs-6 col-sm-4 tilt">
-                    <div class="portfolio_item">
-                        <a href="print-design.html" target="_blank">
-                            <img src="assets/images/print-d.png" class="img-thumbnail img-responsive"></a>
-                        <a href="print-design.html" target="_blank" class="top-left">Print Design
-                        </a>
-                        <a class="exp" href="print-design.html" target="_blank"><span class="exp_inner"><span class="exp_hover">Explore</span></a>
-                    </div>
-                </div>
-
-                <div class="col-xs-6 col-sm-4 tilt">
-                    <div class="portfolio_item">
-                        <a href="application-design.html" target="_blank">
-                            <img src="assets/images/app-design.png" class="img-thumbnail img-responsive"></a>
-                        <a href="application-design.html" target="_blank" class="top-left">
-
-                            Application Design
-                        </a>
-                        <a class="exp" href="application-design.html" target="_blank"><span class="exp_inner"><span class="exp_hover">Explore</span></span></a>
-                    </div>
-                </div>
-
-                <div class="col-xs-6 col-sm-4 tilt">
-                    <div class="portfolio_item">
-                        <a href="3d-video-design.html" target="_blank">
-                            <img src="assets/images/video.png" class="img-thumbnail img-responsive">
-                        </a>
-                        <a href="3d-video-design.html" target="_blank" class="top-left">
-                            3D/Video Design
-                        </a>
-                        <a class="exp" href="3d-video-design.html" target="_blank"><span class="exp_inner"><span class="exp_hover">Explore</span></span></a>
-                    </div>
-                </div>
-
-
-            </div> <!-- Row -->
-
-
-        </div> <!-- Container -->
-    </section>
-
-
-
-    <section class="client_wrap" style="
+    <!-- <section class="client_wrap" style="
             background: #f2f2f2;
     ">
         <div class="bg_text">
@@ -713,11 +637,11 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
 
 
-    <section class="testimonial text-center">
+    <!-- <section class="testimonial text-center">
         <div class="bg_text">
             <h1 class="bg_strock_text" data-parallax='{"x": 50}'>Testimonials</h1>
         </div>
@@ -758,7 +682,7 @@
                 </a>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <?php include_once('templates/footer.php') ?>
 

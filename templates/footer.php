@@ -4,7 +4,7 @@
             <div class="row">
 
                 <div class="col-xs-12 col-sm-6 col-md-3">
-                    <img src="assets/images/DHM logo (White).png" alt="logo" class="flogo">
+                    <img src="assets/images/DHM logo (White).png" width="80px" alt="logo" class="flogo">
 
                 </div>
 
@@ -12,24 +12,25 @@
                     <div class="widget no-box">
                         <h5 class="widget-title" style="font-size: 25px;font-weight: 600;">Quick Links</h5>
                         <ul class="thumbnail-widget">
+
                             <li>
-                                <div class="thumb-content"><a href="digital-marketing.html">Digital Marketing</a></div>
+                                <div class="thumb-content"><a href="commercial-ads.php">Commercial Ads</a></div>
                             </li>
                             <li>
-                                <div class="thumb-content"><a href="brand-identity.html">Brand Identity</a></div>
+                                <div class="thumb-content"><a href="video-production.php">Vide Production</a></div>
                             </li>
+
                             <li>
-                                <div class="thumb-content"><a href="website-design.html">Website Design</a></div>
+                                <div class="thumb-content"><a href="digital-marketing.php">Digital Marketing</a></div>
                             </li>
+
                             <li>
-                                <div class="thumb-content"><a href="print-design.html">Print Design</a></div>
+                                <div class="thumb-content"><a href="website-design.php">Website Development</a></div>
                             </li>
+
                             <li>
-                                <div class="thumb-content"><a href="application-design.html">Application Design</a>
+                                <div class="thumb-content"><a href="application-design.php">Application Development</a>
                                 </div>
-                            </li>
-                            <li>
-                                <div class="thumb-content"><a href="3d-video-design.html">3D/Video Design</a></div>
                             </li>
                         </ul>
                     </div>
@@ -68,7 +69,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <p>Copyright © 2020 Darkhorsemedia | All rights reserved</p>
+                    <p>Copyright © 2022 AfAdAgency | All rights reserved</p>
                 </div>
             </div>
         </div>
@@ -77,6 +78,7 @@
 
 <div class="go_to_top">
     <a href="#top">
+        <i class="material-icons">expand_less</i>
         <i class="material-icons">expand_less</i>
     </a>
 </div>

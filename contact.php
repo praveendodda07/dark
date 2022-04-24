@@ -65,38 +65,7 @@
             </div>
         </div>
         <br>
-        <ul class="social_link" style="display: none;">
-            <li>
-                <a href="https://www.facebook.com/darkhorse360/" target="_blank">
-                    <i class="fa fa-facebook"></i>
-                    <i class="fa fa-facebook"></i>
-                </a>
-            </li>
-            <li>
-                <a href="https://www.instagram.com/dark_horse_media/" target="_blank">
-                    <i class="fa fa-instagram"></i>
-                    <i class="fa fa-instagram"></i>
-                </a>
-            </li>
-            <li>
-                <a href="https://twitter.com/darkhorse360" target="_blank">
-                    <i class="fa fa-twitter"></i>
-                    <i class="fa fa-twitter"></i>
-                </a>
-            </li>
-            <li>
-                <a href="https://www.linkedin.com/company/darkhorsemedia" target="_blank">
-                    <i class="fa fa-linkedin"></i>
-                    <i class="fa fa-linkedin"></i>
-                </a>
-            </li>
-            <li>
-                <a href="https://wa.me/91702135017" target="_blank">
-                    <i class="fa fa-whatsapp"></i>
-                    <i class="fa fa-whatsapp"></i>
-                </a>
-            </li>
-        </ul>
+
     </section>
     <!-- end hero_warp -->
     <!-- start contact_form_wrap -->
@@ -155,8 +124,8 @@
                             <h4>Email:</h4>
                             <p><a href="#">
 
-                                    <span>info@darkhorsemedia.co</span>
-                                    <span>info@darkhorsemedia.co</span>
+                                    <span>contact@afadagency.com</span>
+                                    <span>contact@afadagency.com</span>
 
                                 </a></p>
                         </div>
@@ -182,7 +151,7 @@
                         </div>
                         <div class="interesting_content wow fadeInUp" data-wow-delay="0.8s">
                             <h4>Call us on:</h4>
-                            <p><a href="tel:+917021350179"><span>(+91)7021350179</span><span>(+91)7021350179</span></a> </p>
+                            <p><a href="tel:+917021350179"><span>(+91)76618 13635</span><span>(+91)76618 13635</span></a> </p>
                         </div>
                     </div>
                 </div>
