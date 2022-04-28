@@ -2,12 +2,9 @@
 <html lang="en">
 
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Have something interesting in mind? Let’s Talk...">
     <link rel="shortcut icon" href="assets/images/DHM-Favicon.png" type="image/x-icon">
-    <title>Contact | Dark Horse Media</title>
+    <title>Contact | AF Ad agency</title>
     <link rel="stylesheet" href="assets/css/bootstrap.css">
     <link rel="stylesheet" href="assets/css/font-awesome.min.css">
     <link rel="stylesheet" href="assets/css/font-awesome-animation.min.css">
@@ -116,7 +113,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-12 col-12">
-                    <div class="interesting_item">
+                    <div class="interesting_item" style="max-width:240px">
                         <div class="interesting_icon wow fadeInUp" data-wow-delay="0.2s">
                             <img src="https://img.icons8.com/ios/50/000000/composing-mail.png" alt="Statue of Liberty">
                         </div>
@@ -139,8 +136,7 @@
                         <div class="interesting_content wow fadeInUp" data-wow-delay="0.6s">
 
                             <h4>Address:</h4>
-                            <p>Dfactory,<br> 1st Floor, Swaminarayan Building, Above IDBI Bank, 60ft road, Ambadi Rd, Vasai West, Vasai-Virar, Maharashtra 401202.
-                            </p>
+                            <p>AF Ad Agency</p>
                         </div>
                     </div>
                 </div>
@@ -151,7 +147,7 @@
                         </div>
                         <div class="interesting_content wow fadeInUp" data-wow-delay="0.8s">
                             <h4>Call us on:</h4>
-                            <p><a href="tel:+917021350179"><span>(+91)76618 13635</span><span>(+91)76618 13635</span></a> </p>
+                            <p><a href="tel:+917661813635"><span>(+91)76618 13635</span><span>(+91)76618 13635</span></a> </p>
                         </div>
                     </div>
                 </div>

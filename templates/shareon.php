@@ -13,33 +13,33 @@
                         </span>
                         <ul class="blog_social">
                             <li>
-                                <a href="https://www.facebook.com/darkhorse360/" target="_blank">
-                                    <i class="fa fa-facebook"></i>
-                                    <i class="fa fa-facebook"></i>
+                                <a href="https://www.facebook.com/Af-ad-agency-100471259309602" target="_blank">
+                                    <i class="fab fa-facebook-f"></i>
+                                    <i class="fab fa-facebook-f"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://twitter.com/darkhorse360" target="_blank">
-                                    <i class="fa fa-twitter"></i>
-                                    <i class="fa fa-twitter"></i>
+                                <a href="https://twitter.com/af_ad_agency" target="_blank">
+                                    <i class="fab fa-twitter"></i>
+                                    <i class="fab fa-twitter"></i>
                                 </a>
                             </li>
-                            <li>
+                            <!-- <li>
                                 <a href="https://www.linkedin.com/company/darkhorsemedia" target="_blank">
                                     <i class="fa fa-linkedin"></i>
                                     <i class="fa fa-linkedin"></i>
                                 </a>
-                            </li>
+                            </li> -->
                             <li>
-                                <a href="https://www.instagram.com/dark_horse_media/" target="_blank">
-                                    <i class="fa fa-instagram"></i>
-                                    <i class="fa fa-instagram"></i>
+                                <a href="https://www.instagram.com/af_ad_agency/" target="_blank">
+                                    <i class="fab fa-instagram"></i>
+                                    <i class="fab fa-instagram"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://wa.me/91702135017" target="_blank">
-                                    <i class="fa fa-whatsapp"></i>
-                                    <i class="fa fa-whatsapp"></i>
+                                <a href="https://wa.me/917661813635" target="_blank">
+                                    <i class="fab fa-whatsapp"></i>
+                                    <i class="fab fa-whatsapp"></i>
                                 </a>
                             </li>
                         </ul>

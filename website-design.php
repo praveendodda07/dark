@@ -4,8 +4,8 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="shortcut icon" href="assets/images/DHM-Favicon.png" type="image/x-icon">
-    <title>About Us | AF Ad agency</title>
-    <link rel="shortcut icon" href="assets/images/DHM-Favicon.png" type="image/x-icon">
+    <title>Website Development | Af Ad Agency</title>
+    <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.css">
     <link rel="stylesheet" href="assets/css/font-awesome.min.css">
     <link rel="stylesheet" href="assets/css/font-awesome-animation.min.css">
@@ -37,112 +37,116 @@
     <link rel="stylesheet" href="assets/style/css/responsive.css">
     <link href="fontawesome-free-5.13.0-web/fontawesome-free-5.13.0-web/css/all.css" rel="stylesheet">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,600,700">
+
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
 </head>
 
 <body id='top'>
+
     <?php include_once('templates/menu-bar.php') ?>
 
-    <!-- start hero_warp -->
+
+
     <section class="hero_warp inner_banner contact_banner">
         <div class="container">
             <div class="row d-flex align-items-center">
                 <div class="col-md-12 col-12">
                     <div class="banner_content">
-                        <h1 class="banner_title">About us</h1>
-                        <p class="banner_para wow fadeInUp">We will help your brand to flourish, your business.</p>
+                        <br>
+                        <h1 class="banner_title">Website Development</h1>
+                        <!-- <p class="banner_para wow fadeInUp">“Today it’s not about ‘get the traffic’ — it’s about ‘get the targeted and relevant traffic.” – Adam Audette</p> -->
                     </div>
                 </div>
             </div>
         </div>
         <br>
-        <ul class="social_link" style="display: none;">
-            <li>
-                <a href="https://www.facebook.com/darkhorse360/" target="_blank">
-                    <i class="fa fa-facebook"></i>
-                    <i class="fa fa-facebook"></i>
-                </a>
-            </li>
-            <li>
-                <a href="https://www.instagram.com/dark_horse_media/" target="_blank">
-                    <i class="fa fa-instagram"></i>
-                    <i class="fa fa-instagram"></i>
-                </a>
-            </li>
-            <li>
-                <a href="https://twitter.com/darkhorse360" target="_blank">
-                    <i class="fa fa-twitter"></i>
-                    <i class="fa fa-twitter"></i>
-                </a>
-            </li>
-            <li>
-                <a href="https://www.linkedin.com/company/darkhorsemedia" target="_blank">
-                    <i class="fa fa-linkedin"></i>
-                    <i class="fa fa-linkedin"></i>
-                </a>
-            </li>
-            <li>
-                <a href="https://wa.me/91702135017">
-                    <i class="fa fa-whatsapp"></i>
-                    <i class="fa fa-whatsapp"></i>
-                </a>
-            </li>
-        </ul>
     </section>
 
 
-    <div class="skill-area ptb-80">
+    <div class="skill-area ptb-80" style="background-color: white;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
                     <div class="about-content mb-all-40">
-                        <!-- Section Title Start -->
-
-                        <!-- Section Title End -->
+                        <!-- <h3>We are creative at Ad Making, Film Making and
+                            Marketing.</h3> -->
                         <p class="mb-15">
-                            Grow your business with us, We are creative at ad Making, Film Making and digital Marketing. <br> <br>
-                            Af ad agency offers a complete range of web solutions including web designing, App development and many more.
+                            <br>We implemented Latest Web Development Technologies and frameworks like
+                            PHP, HTML, CSS, JavaScript, JAVA, Hibernate, Spring, MVC, Angular JS, Node JS
+                            and many more to help you to stay competing in this digitized world. Our Af
+                            ad agency Web design company would serve you an extremely
+                            customization website as per your requirements, We implement superior web
+                            design that suite for all business domain, from startups to well-established
+                            companies. Our Development Would Be extremely Customization As Per
+                            Client’s Requirement along with terrific services like Website Design,
+                            Responsive Web Design, Dynamic Website development, e-commerce web
+                            design and development.
                         </p>
-                        <!-- <a class="login-btn" href="#">Read more</a> -->
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <!-- Single Bannner Start Here -->
                     <div class="single-banner zoom">
-                        <a><img src="assets/images/abu.jpg" alt="banner-img"></a>
+                        <a><img src=" assets/images/DHM-services-images/DHM-services-images/digital-mrkt/dm 2 new.jpg" alt="banner-img"></a>
                     </div>
                     <!-- Single Bannner End Here -->
                 </div>
             </div>
         </div>
     </div>
+    <!-- <div class="skill-area ptb-10" style="background-color: white;">
+        <div class="container">
+            <div class="row">
 
-    <div class="our-team dark-white-bg ptb-80">
-
-        <div class="skill-area ptb-80">
-            <div class="container">
-                <div class="row">
-
-                    <div class="col-md-6">
-                        <!-- Single Bannner Start Here -->
-                        <div class="single-banner zoom">
-                            <a><img src="assets/images/blog/Final Service Image Download/shutterstock_434383288.jpg" alt="banner-img"></a>
-                        </div>
-                        <!-- Single Bannner End Here -->
+                <div class="col-lg-12">
+                    <div class="about-content mb-all-40">
+                        <p class="mb-15">
+                            Though SEO is the way toward improving your website positioning, to do this you need an average site made by the expert website designing company in Vasai, who know the fundamental prerequisites for a streamlined site like optimizing content (rich text, videos, and images) and mobile responsive.
+                            <br><br> Online Ads with having different names such as Online Marketing, Internet Marketing, Google Ads, PPC Marketing, or Web Advertising, is a marketing strategy that involves the use of internet as a medium to obtain website traffic through Search Engine Marketing (SEM), Social Media Marketing (SMM), etc. and target to deliver marketing messages to the right customer.
+                        </p>
                     </div>
-                    <div class="col-lg-6">
-                        <div class="about-content mb-all-40">
-                            <!-- Section Title Start -->
+                </div>
+            </div>
+        </div>
+    </div> -->
+    <div class="skill-area ptb-10" style="background-color: whitesmoke;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="single-banner zoom">
+                        <a><img src=" assets/images/DHM-services-images/DHM-services-images/digital-mrkt/dm new.jpg" alt="banner-img"></a>
+                    </div>
+                    <!-- Single Bannner End Here -->
+                </div>
+                <div class="col-lg-6">
+                    <div class="about-content mb-all-40">
+                        <p class="mb-15">
+                            Our web designers and developers are well thought out
+                            professionals. They work closely and incorporate innovative ideas to
+                            bring life to your business entities. We designed websites for almost
+                            every industry. Our esteemed clients made us try our hands-on
+                            designing the websites for Hospital and Pharma, Education, Fashion,
+                            E-commerce, Minerals and Mining industries, Software Industries, IT
+                            Consultancies, Home Solutions and Architecture, Law and Charted
+                            Accountant Firms, Food delivery websites and more.
+                    </div>
+                    </p>
+                </div>
 
-                            <!-- Section Title End -->
-                            <p class="mb-15">We work with some of most recognizable brands. We
-                                are personally & passionately committed on each &
-                                every job, from social media post to a larger
-                                television campaign.
-                            </p>
-                            <!-- <a class="login-btn" href="#">Read more</a> -->
-                        </div>
+            </div>
+        </div>
+    </div>
+    <div class="skill-area ptb-10" style="background-color: whitesmoke;">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-12">
+                    <div class="about-content mb-all-40">
+                        <p class="mb-15">
+                            Af ad agency , a creative web design and development company
+                            have a team of highly skilled UI designers who designs the most
+                            sophisticated and stylish websites that have rich user interfaces.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -150,10 +154,11 @@
     </div>
 
 
+
+
     <?php include_once('templates/shareon.php') ?>
     <?php include_once('templates/footer.php') ?>
 
-    <!-- Optional JavaScript -->
     <script src="assets/style/js/vendor/jquery-3.3.1.min.js"></script>
     <script src="assets/style/js/jquery.meanmenu.min.js"></script>
     <script src="assets/style/js/jquery.fancybox.min.js"></script>
