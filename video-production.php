@@ -39,6 +39,11 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,600,700">
 
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <style>
+        .about-content *{
+            text-align: inherit !important;
+        }
+    </style>
 </head>
 
 <body id='top'>
@@ -93,7 +98,7 @@
                 </div>
                 <div class="col-md-6">
                     <div class="single-banner zoom">
-                        <a><img src=" assets/images/DHM-services-images/DHM-services-images/digital-mrkt/dm 2 new.jpg" alt="banner-img"></a>
+                        <a><img src=" assets/images/services/movie-1.jpg" alt="banner-img"></a>
                     </div>
                     <!-- Single Bannner End Here -->
                 </div>
@@ -120,7 +125,7 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="single-banner zoom">
-                        <a><img src=" assets/images/DHM-services-images/DHM-services-images/digital-mrkt/dm new.jpg" alt="banner-img"></a>
+                        <a><img src=" assets/images/services/movie-2.jpg" alt="banner-img"></a>
                     </div>
                     <!-- Single Bannner End Here -->
                 </div>

@@ -4,7 +4,7 @@
 <head>
     <!-- <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
     <meta name="description" content="Dark Horse Media is a 360° advertising agency where we champion free thinking, in a stress-free work atmosphere where ideas cross-pollinate to produce innovative solutions for brands to connect with their consumers on the web.">
     <meta name="keywords" content="Digital Marketing Company in mumbai, website development company, website development company, website design company in mumbai">
     <link rel="shortcut icon" href="assets/images/DHM-Favicon.png" type="image/x-icon"> -->
@@ -12,7 +12,7 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.css">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- icon CSS -->
     <link rel="stylesheet" href="./assets/css/font-awesome.min.css">
     <link rel="stylesheet" href="./assets/css/font-awesome-animation.min.css">
@@ -487,12 +487,15 @@
                     <br>
                     <div class="about_content">
                         <h5 class=" wow fadeInUp" data-wow-delay="0.5s" style="color: #3A3B3C;">
-                            Our team strikes a perfect balance of left and right brained people.
-                            Where insightful analytics meets visual creativity to give our clients outstanding design outcomes.
+                        Grow your business with us, We are creative at ad Making, Film Making and digital Marketing. <br>
+                            Af ad agency offers a complete range of web solutions including web designing, App development and many more.
                         </h5>
                         <br>
                         <h5 class=" wow fadeInUp" data-wow-delay="0.5s" style="color: #3A3B3C;">
-                            We are powered with avant-grade digital marketing ideologies that could lay a glossy path for your triumph. Being the hotshots of digital Marketing ideologies that could lay a glossy path for your triumph. Being the hotshots of digital marketing, We offer top-notch digital solutions that can bring a valid difference in your business.
+                        We work with some of most recognizable brands. We
+                                are personally & passionately committed on each &
+                                every job, from social media post to a larger
+                                television campaign.
                         </h5>
                         <br>
                         <!-- <a href="assets/document/Dark Horse Media.pdf" target="_blank" download> <button class="btn"><i class="material-icons">download</i>&nbsp; Download Brochure</button>
