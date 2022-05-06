@@ -48,8 +48,8 @@
                 <div class="col-xs-6 col-sm-6 col-md-3">
                     <div class="widget no-box">
                         <h5 class="widget-title" style="font-size: 25px;font-weight: 600;">Contact Us</h5>
-                        <p><i class="fa fa-phone" style="font-size: 15px;"></i>&nbsp;<a title="+91-7661813635" href="tel:+91-7661813635">+91-7661813635</a><br>
-                            <i class="fa fa-envelope" style="font-size: 15px;"></i>&nbsp;<a title="contact@afadagency.com" target="_blank" href="mailto:contact@afadagency.com" style="color:white">contact@afadagency.com</a>
+                        <p><i class="fas fa-phone-alt" style="font-size: 15px;"></i>&nbsp;<a title="+91-7661813635" href="tel:+91-7661813635">+91-7661813635</a><br>
+                            <i class="fas fa-envelope" style="font-size: 15px;"></i>&nbsp;<a title="contact@afadagency.com" target="_blank" href="mailto:contact@afadagency.com" style="color:white">contact@afadagency.com</a>
                             </a>
                             </a>
                         </p>

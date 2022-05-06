@@ -14,6 +14,8 @@
     <link rel="stylesheet" href="assets/css/bootstrap.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- icon CSS -->
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+
     <link rel="stylesheet" href="./assets/css/font-awesome.min.css">
     <link rel="stylesheet" href="./assets/css/font-awesome-animation.min.css">
     <link rel="stylesheet" href="./assets/css/themify-icons.css">
@@ -34,6 +36,9 @@
     <link rel="stylesheet" href="assets/js/owl-carousel/assets/owl.theme.default.min.css">
 
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <link href="fontawesome-free-5.13.0-web/fontawesome-free-5.13.0-web/css/all.css" rel="stylesheet">
+
     <style>
         .client_wrap {
             /*padding: 100px 0 80px;*/
