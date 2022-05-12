@@ -79,7 +79,7 @@
                         <p class="mb-15">
                             <br>We implemented Latest Web Development Technologies and frameworks like
                             PHP, HTML, CSS, JavaScript, JAVA, Hibernate, Spring, MVC, Angular JS, Node JS
-                            and many more to help you to stay competing in this digitized world. Our Af
+                            and many more to help you to stay competing in this digitalized world. Our Af
                             ad agency Web design company would serve you an extremely
                             customization website as per your requirements, We implement superior web
                             design that suite for all business domain, from startups to well-established

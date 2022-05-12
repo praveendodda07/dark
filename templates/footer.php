@@ -17,7 +17,7 @@
                                 <div class="thumb-content"><a href="commercial-ads.php">Commercial Ads</a></div>
                             </li>
                             <li>
-                                <div class="thumb-content"><a href="video-production.php">Vide Production</a></div>
+                                <div class="thumb-content"><a href="video-production.php">Video Production</a></div>
                             </li>
 
                             <li>

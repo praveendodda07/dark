@@ -160,7 +160,7 @@
                             more targeted and focused on your keywords are, the more it is
                             probably going to pull in clients by getting them to visit your page. Web
                             optimization is where if the shakers are tossed vitally, they could be a
-                            distinct advantage for your business. Though SEO is the way towardimproving your website positioning, to do this you need an average site
+                            distinct advantage for your business. Though SEO is the way towards improving your website positioning, to do this you need an average site
                             made by Af ad agency website designing team in Hyderabad.
                             Online Ads with having different names such as Online Marketing,
                             Internet Marketing, Google Ads, PPC Marketing, or Web Advertising, is a
